@@ -3,7 +3,7 @@
 
 **SanjnaSheth/sanjnasheth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here is a bit about me:
 
 - 🔭 I’m currently a senior at the University of Iowa studying Finance and Business Analytics
 - 🌱 I’m currently learning Python and SQL
